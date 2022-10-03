@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Na4dG0T3/CZo7sXTDP5/8kppPO/7SI4cKwF4eMX21B0w2moRU0HcgdfEIZXgD6/O/aufeX8Uz5ors1SM9f6KtA==",
+  "success": true,
+  "projectFilePath": "D:\\new\\BotWithUpdates1-main\\BotWithUpdates1-main\\learnkeyboard\\learnkeyboard\\learnkeyboard\\learnkeyboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\telegram.bot.extensions.polling\\2.0.0-alpha.1\\telegram.bot.extensions.polling.2.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}

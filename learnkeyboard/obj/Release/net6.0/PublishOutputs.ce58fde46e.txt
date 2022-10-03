@@ -1,0 +1,8 @@
+C:\Users\user\RiderProjects\learnkeyboard\learnkeyboard\publish\learnkeyboard.exe
+C:\Users\user\RiderProjects\learnkeyboard\learnkeyboard\publish\learnkeyboard.dll
+C:\Users\user\RiderProjects\learnkeyboard\learnkeyboard\publish\learnkeyboard.deps.json
+C:\Users\user\RiderProjects\learnkeyboard\learnkeyboard\publish\learnkeyboard.runtimeconfig.json
+C:\Users\user\RiderProjects\learnkeyboard\learnkeyboard\publish\learnkeyboard.pdb
+C:\Users\user\RiderProjects\learnkeyboard\learnkeyboard\publish\Newtonsoft.Json.dll
+C:\Users\user\RiderProjects\learnkeyboard\learnkeyboard\publish\Telegram.Bot.dll
+C:\Users\user\RiderProjects\learnkeyboard\learnkeyboard\publish\Telegram.Bot.Extensions.Polling.dll
