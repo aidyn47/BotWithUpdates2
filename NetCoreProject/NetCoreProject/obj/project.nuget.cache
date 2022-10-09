@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tztBE3Rnd7IoyEXbENiCqRexr7E7idqEZd5YwzUaZ0xY5SOk1xtLryufbhcvu4BswSQjjPq6KJ1qSyJwxQZRwA==",
+  "dgSpecHash": "40nf25fCyj07Am9HqdtN4iP5MhStYII3sjYwrtbeZFUAvaUUAMxMiJ2BCsfw5ep5WKE+KUltByLBcf1thCs3aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\NetCoreProject\\NetCoreProject\\NetCoreProject.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\BotWithUpdates2\\NetCoreProject\\NetCoreProject\\NetCoreProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
   "logs": []
 }
